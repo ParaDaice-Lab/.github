@@ -15,6 +15,8 @@
   <a href="https://paradaice.info/#join">Ask for a seat</a>
 </p>
 
+<p align="center"><a href="#auf-deutsch">Auf Deutsch ↓</a></p>
+
 ---
 
 A future lab in Switzerland, open to people anywhere. Bring something you want to make, and build it with AI agents and with people building their own thing. You steer, learn as you go, and keep what you create.
@@ -54,6 +56,64 @@ About: what you would like to make, in one sentence
 A person reads every request and decides. If it is a yes, the setup runs by itself, and we ask you for one thing: a free GitHub account.
 
 [How joining works](https://paradaice.info/details#join) · [Privacy](https://paradaice.info/privacy)
+
+---
+
+## Auf Deutsch
+
+<details>
+<summary><strong>Den ganzen Text auf Deutsch lesen</strong></summary>
+
+<p align="center"><strong>Deine Idee. Ein KI-Team. Du entscheidest.</strong></p>
+
+<p align="center">
+  <a href="https://paradaice.info/de/">Website</a> ·
+  <a href="https://paradaice.info/de/showroom">Showroom</a> ·
+  <a href="https://paradaice.info/de/details">Die ganze Geschichte</a> ·
+  <a href="https://paradaice.info/de/#join">Platz anfragen</a>
+</p>
+
+Ein Zukunftslabor in der Schweiz, offen für Menschen überall. Bring mit, was du bauen willst, und bau es mit KI-Agenten und mit Menschen, die ihr eigenes Ding bauen. Du steuerst, lernst unterwegs und behältst, was du machst.
+
+**Kostenlos. Ohne Programmieren. Von überall.**
+
+### Was dir ein Platz bringt
+
+- **KI-Werkzeuge:** ein Platz in der Claude-Organisation des Labs.
+- **Ein Zuhause für dein Projekt:** ein Platz in dieser GitHub-Organisation und, falls dein Projekt eines braucht, ein privates Repository mit dir als Admin. Es gehört dir und geht mit dir, wenn du das Lab verlässt.
+- **Eine Lab-Adresse:** `deinname@paradaice.info`, weitergeleitet an dein eigenes Postfach.
+- **Der eigene Chat des Labs:** Mitglieder und ihre Agenten arbeiten Seite an Seite, auf einem Server, den das Lab selbst betreibt.
+
+Freunde des Labs tragen die Kosten. Die Plätze sind begrenzt.
+
+### Warum du hier so wenige Repositories siehst
+
+Jedes Projekt bleibt privat, solange es gebaut wird, und seine Leitung entscheidet, was gezeigt wird. Alle Projekte, und was jedes gebraucht hat, siehst du im [Showroom](https://paradaice.info/de/showroom).
+
+### Hausregeln
+
+- **Dein Projekt, deine Leitung.** Jedes Projekt läuft für sich, geführt von seiner eigenen Person. Werkzeuge und Erfahrungen zu teilen ist ausdrücklich erwünscht.
+- **Die Wahrheit, auch der langweilige Teil.** Agenten berichten über gescheiterte Experimente so klar wie über gelungene und sagen, wenn sie etwas nicht wissen.
+- **Menschen entscheiden.** Agenten geben kein Geld aus, veröffentlichen nichts und kontaktieren niemanden im Namen eines Projekts, ohne dass dessen Leitung ja sagt.
+
+### Platz anfragen
+
+Erzähl uns deine Idee auf [paradaice.info](https://paradaice.info/de/#join). Ein Satz reicht.
+
+Lieber per E-Mail? Schick zwei Zeilen an [join@paradaice.info](mailto:join@paradaice.info?subject=Ein%20Platz%20im%20Lab&body=Name%3A%20%0D%0AAbout%3A%20%0D%0A), die Stichwörter `Name:` und `About:` bitte so lassen:
+
+```text
+Name: dein Name
+About: was du bauen möchtest, in einem Satz
+```
+
+Ein Mensch liest jede Anfrage und entscheidet. Ist es ein Ja, läuft die Einrichtung von selbst, und wir fragen dich nach einer Sache: einem kostenlosen GitHub-Konto. Unsere Mails kommen auf Englisch.
+
+[So funktioniert der Beitritt](https://paradaice.info/de/details#join) · [Datenschutz](https://paradaice.info/de/privacy)
+
+*Gebaut von KI-Agenten, geführt von einem Menschen.*
+
+</details>
 
 ---
 
