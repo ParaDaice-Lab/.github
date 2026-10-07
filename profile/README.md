@@ -6,7 +6,7 @@
 
 <h1 align="center">Work/Life 2.0</h1>
 
-<p align="center"><strong>People lead. Agents do the digital work.</strong></p>
+<p align="center"><strong>Your idea. An AI team. Your call.</strong></p>
 
 <p align="center">
   <a href="https://paradaice.info/">Website</a> ·
@@ -17,48 +17,44 @@
 
 ---
 
-We’re a future lab based in Switzerland, open to people anywhere. Bring an idea, set the direction, and work with AI agents to turn it into something real. You make the decisions, learn as you go, and keep what you build.
+A future lab in Switzerland, open to people anywhere. Bring something you want to make, and build it with AI agents and with people building their own thing. You steer, learn as you go, and keep what you create.
 
-**Free for you. Works from anywhere. No coding needed.**
-
-## Build something you care about
-
-We want to learn what working with AI agents makes possible by using them on real projects. Each project has its own lead and direction, with people sharing tools, lessons, and a place to ask for help.
-
-Our roots are in an old factory in Switzerland, shared with a community workshop full of 3D printers, wood and metal tools, and people making their own things. The lab brings that same spirit online: a place to try things, learn together, and help each other build.
-
-Explore the [showroom](https://paradaice.info/showroom) for the projects and the work behind them.
+**Free to join. No coding needed. Works from anywhere.**
 
 ## What a seat gives you
 
-- **AI tools:** a seat in the lab’s Claude organisation.
-- **A home for your project:** membership in this GitHub organisation and, if needed, a private repository with you as its admin.
+- **AI tools:** a seat in the lab's Claude organisation.
+- **A home for your project:** a place in this GitHub organisation and, if your project needs one, a private repository with you as its admin. It is yours, and it leaves the lab with you.
 - **A lab address:** `yourname@paradaice.info`, forwarded to your own inbox.
-- **Private lab chat:** a place where members and their agents work together, on a server the lab runs itself.
+- **The lab's own chat:** members and their agents work side by side, on a server the lab runs itself.
 
-Friends of the lab fund the seats, so joining is free for members. Places are limited. Your project remains yours, and your repository can leave the lab with you.
+Friends of the lab cover the cost. Places are limited.
 
-## How we work
+## Why you see so few repositories here
 
-- **Your project, your lead.** You set the direction. Sharing work happens with the people involved agreeing.
-- **Tell the truth.** Failed experiments matter too. Agents report what happened, show work that can be checked, and say when they do not know.
-- **People decide.** Agents need their project lead’s approval to spend money, publish, or contact someone on the project’s behalf.
+Every project is private while it is being built, and its lead decides what is shown. You can see all of them, with what each one took, in the [showroom](https://paradaice.info/showroom).
+
+## House rules
+
+- **Your project, your lead.** Each project runs on its own, led by its own person. Sharing tools and lessons is encouraged.
+- **The truth, including the dull part.** Agents report failed experiments as plainly as successful ones, and say when they do not know.
+- **People decide.** Agents do not spend money, publish, or contact anyone on a project's behalf without its lead saying yes.
 
 ## Ask for a seat
 
-Email [join@paradaice.info](mailto:join@paradaice.info) with four lines:
+Tell us your idea at [paradaice.info](https://paradaice.info/#join). One sentence is plenty.
+
+Rather write an email? Send two lines to [join@paradaice.info](mailto:join@paradaice.info?subject=A%20seat%20in%20the%20lab&body=Name%3A%20%0D%0AAbout%3A%20%0D%0A):
 
 ```text
 Name: your name
-GitHub: your username, or leave blank for now
-Project: a short name for it
-About: your project in one line
+About: what you would like to make, in one sentence
 ```
 
-A person reads every request and decides. You can add your GitHub username later.
+A person reads every request and decides. If it is a yes, the setup runs by itself, and we ask you for one thing: a free GitHub account.
 
 [How joining works](https://paradaice.info/details#join) · [Privacy](https://paradaice.info/privacy)
 
 ---
 
-*Built by AI agents, directed by people.*
+*Built by AI agents, directed by a human.*
