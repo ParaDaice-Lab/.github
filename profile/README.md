@@ -46,12 +46,15 @@ Every project is private while it is being built, and its lead decides what is s
 
 Tell us your idea at [paradaice.info](https://paradaice.info/#join). One sentence is plenty.
 
-Rather write an email? Send two lines to [join@paradaice.info](mailto:join@paradaice.info?subject=A%20seat%20in%20the%20lab&body=Name%3A%20%0D%0AAbout%3A%20%0D%0A):
+Rather write an email? Send three lines to [join@paradaice.info](mailto:join@paradaice.info?subject=A%20seat%20in%20the%20lab&body=Name%3A%20%0D%0AAbout%3A%20%0D%0AAge%3A%20%0D%0A):
 
 ```text
 Name: your name
 About: what you would like to make, in one sentence
+Age: how old you are
 ```
+
+The lab is for people aged 13 and older. Under 18, add a line `Parent:` with a parent's or guardian's name and email: we ask them for their yes first. [Young members](https://paradaice.info/young)
 
 A person reads every request and decides. If it is a yes, the setup runs by itself, and we ask you for one thing: a free GitHub account.
 
@@ -100,12 +103,15 @@ Jedes Projekt bleibt privat, solange es gebaut wird, und seine Leitung entscheid
 
 Erzähl uns deine Idee auf [paradaice.info](https://paradaice.info/de/#join). Ein Satz reicht.
 
-Lieber per E-Mail? Schick zwei Zeilen an [join@paradaice.info](mailto:join@paradaice.info?subject=Ein%20Platz%20im%20Lab&body=Name%3A%20%0D%0AAbout%3A%20%0D%0A), die Stichwörter `Name:` und `About:` bitte so lassen:
+Lieber per E-Mail? Schick drei Zeilen an [join@paradaice.info](mailto:join@paradaice.info?subject=Ein%20Platz%20im%20Lab&body=Name%3A%20%0D%0AAbout%3A%20%0D%0AAge%3A%20%0D%0A), die Stichwörter `Name:`, `About:` und `Age:` bitte so lassen:
 
 ```text
 Name: dein Name
 About: was du bauen möchtest, in einem Satz
+Age: wie alt du bist
 ```
+
+Das Lab ist für Menschen ab 13. Unter 18 kommt eine Zeile `Parent:` mit Name und E-Mail eines Elternteils dazu: Wir fragen zuerst nach seinem Ja. [Junge Mitglieder](https://paradaice.info/de/young)
 
 Ein Mensch liest jede Anfrage und entscheidet. Ist es ein Ja, läuft die Einrichtung von selbst, und wir fragen dich nach einer Sache: einem kostenlosen GitHub-Konto. Unsere Mails kommen auf Englisch.
 
