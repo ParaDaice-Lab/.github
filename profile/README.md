@@ -19,7 +19,7 @@
 
 ---
 
-A future lab in Switzerland, open to people anywhere. Bring something you want to make, and build it with AI agents and with people building their own thing. You steer, learn as you go, and keep what you create.
+A future lab in Switzerland, open to people anywhere. You bring the thing you want to make. AI agents and the other members build beside you. You steer, you learn as you go, and you keep what you create.
 
 **Free to join. No coding needed. Works from anywhere.**
 
@@ -76,7 +76,7 @@ A person reads every request and decides. If it is a yes, the setup runs by itse
   <a href="https://paradaice.info/de/#join">Platz anfragen</a>
 </p>
 
-Ein Zukunftslabor in der Schweiz, offen für Menschen überall. Bring mit, was du bauen willst, und bau es mit KI-Agenten und mit Menschen, die ihr eigenes Ding bauen. Du steuerst, lernst unterwegs und behältst, was du machst.
+Ein Zukunftslabor in der Schweiz, offen für Menschen überall. Du bringst mit, was du bauen willst. KI-Agenten und die anderen Mitglieder bauen neben dir. Du steuerst, lernst unterwegs und behältst, was du machst.
 
 **Kostenlos. Ohne Programmieren. Von überall.**
 
